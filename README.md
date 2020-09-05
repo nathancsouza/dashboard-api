@@ -10,7 +10,7 @@
 
 <h3 align="center">
   
-**Lint to [Front End][site]**
+**Link to [Front End][site]**
 
 </h3>
 
