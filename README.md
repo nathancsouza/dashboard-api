@@ -1,5 +1,5 @@
 <h1 align=center>
-<img src="https://res.cloudinary.com/dmcfuvvn2/image/upload/v1599348830/dashboard_gllc6f.png" />
+<img src="https://res.cloudinary.com/dmcfuvvn2/image/upload/v1599349358/dashboard_gllc6f.png" />
 </h1>
 
 <div align="center">
